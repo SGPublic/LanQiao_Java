@@ -7,8 +7,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         scanner.nextLine();
         String[] arrayPre = scanner.nextLine().split(" ");
-        ArrayList<Integer> array = new ArrayList<>();
         scanner.close();
+        ArrayList<Integer> array = new ArrayList<>();
         for (String s : arrayPre) {
             int itemInt = Integer.parseInt(s);
             array.add(itemInt);
