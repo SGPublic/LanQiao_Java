@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC.iml" filepath="$PROJECT_DIR$/BASIC/BASIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_10/BASIC_10.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_10/BASIC_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_11/BASIC_11.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_11/BASIC_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_12/BASIC_12.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_12/BASIC_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_13/BASIC_13.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_13/BASIC_13.iml" />
       <module fileurl="file://$PROJECT_DIR$/LanQiao_Java.iml" filepath="$PROJECT_DIR$/LanQiao_Java.iml" />
     </modules>
   </component>
