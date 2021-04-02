@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC.iml" filepath="$PROJECT_DIR$/BASIC/BASIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_1/BASIC_1.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_1/BASIC_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_10/BASIC_10.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_10/BASIC_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_11/BASIC_11.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_11/BASIC_11.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_12/BASIC_12.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_12/BASIC_12.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_13/BASIC_13.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_13/BASIC_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_2/BASIC_2.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_2/BASIC_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_3/BASIC_3.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_3/BASIC_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_4/BASIC_4.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_4/BASIC_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_5/BASIC_5.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_5/BASIC_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC_6/BASIC_6.iml" filepath="$PROJECT_DIR$/BASIC/BASIC_6/BASIC_6.iml" />
