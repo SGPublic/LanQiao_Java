@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PREV_64" type="Application" factoryName="Application" folderName="PREV">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="PREV_64" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
